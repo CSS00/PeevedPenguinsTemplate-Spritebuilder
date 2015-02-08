@@ -164,7 +164,7 @@
 					<string>Position</string>
 					<key>value</key>
 					<array>
-						<real>234.5</real>
+						<real>234</real>
 						<real>299</real>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -202,7 +202,7 @@
 					<string>Point</string>
 					<key>value</key>
 					<array>
-						<real>1.5</real>
+						<real>1</real>
 						<real>14</real>
 					</array>
 				</dict>
@@ -246,7 +246,7 @@
 					<string>EnabledFloat</string>
 					<key>value</key>
 					<array>
-						<real>45</real>
+						<real>46</real>
 						<true/>
 					</array>
 				</dict>
