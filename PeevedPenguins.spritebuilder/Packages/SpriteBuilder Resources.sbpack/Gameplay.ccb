@@ -710,8 +710,8 @@
 									<key>points</key>
 									<array>
 										<array>
-											<real>0.0</real>
-											<real>0.0</real>
+											<real>0.90170389413833618</real>
+											<real>74.325141906738281</real>
 										</array>
 										<array>
 											<real>0.0</real>
@@ -726,38 +726,24 @@
 											<real>103.04092407226562</real>
 										</array>
 										<array>
-											<real>15.589348793029785</real>
-											<real>76.037338256835938</real>
+											<real>16.354211807250977</real>
+											<real>74.810592651367188</real>
 										</array>
 										<array>
-											<real>16.037303924560547</real>
-											<real>3.1242001056671143</real>
+											<real>15.808764457702637</real>
+											<real>74.630592346191406</real>
 										</array>
 									</array>
 									<key>polygons</key>
 									<array>
 										<array>
 											<array>
-												<real>0.0</real>
-												<real>177</real>
+												<real>15.808764457702637</real>
+												<real>74.630592346191406</real>
 											</array>
 											<array>
-												<real>0.0</real>
-												<real>0.0</real>
-											</array>
-											<array>
-												<real>16.037303924560547</real>
-												<real>3.1242001056671143</real>
-											</array>
-											<array>
-												<real>15.589348793029785</real>
-												<real>76.037338256835938</real>
-											</array>
-										</array>
-										<array>
-											<array>
-												<real>15.589348793029785</real>
-												<real>76.037338256835938</real>
+												<real>16.354211807250977</real>
+												<real>74.810592651367188</real>
 											</array>
 											<array>
 												<real>39.876499176025391</real>
@@ -770,6 +756,10 @@
 											<array>
 												<real>0.0</real>
 												<real>177</real>
+											</array>
+											<array>
+												<real>0.90170389413833618</real>
+												<real>74.325141906738281</real>
 											</array>
 										</array>
 									</array>
