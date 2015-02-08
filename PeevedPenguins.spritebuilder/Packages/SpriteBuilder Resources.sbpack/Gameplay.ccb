@@ -10,7 +10,7 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
-	<integer>16</integer>
+	<integer>18</integer>
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -55,8 +55,8 @@
 					<string>Position</string>
 					<key>value</key>
 					<array>
-						<real>236.44068908691406</real>
-						<real>93.099990844726562</real>
+						<real>207.6439208984375</real>
+						<real>101.09999084472656</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -142,7 +142,7 @@
 		</dict>
 		<dict>
 			<key>UUID</key>
-			<integer>14</integer>
+			<integer>17</integer>
 			<key>baseClass</key>
 			<string>CCPhysicsSpringJoint</string>
 			<key>children</key>
@@ -213,8 +213,8 @@
 					<string>Point</string>
 					<key>value</key>
 					<array>
-						<real>14</real>
-						<real>150</real>
+						<real>32</real>
+						<real>145</real>
 					</array>
 				</dict>
 				<dict>
@@ -246,7 +246,7 @@
 					<string>EnabledFloat</string>
 					<key>value</key>
 					<array>
-						<real>62.11761474609375</real>
+						<real>50</real>
 						<true/>
 					</array>
 				</dict>
@@ -264,11 +264,9 @@
 					<key>type</key>
 					<string>Float</string>
 					<key>value</key>
-					<real>500</real>
+					<real>300</real>
 				</dict>
 			</array>
-			<key>selected</key>
-			<true/>
 		</dict>
 	</array>
 	<key>jsControlled</key>
@@ -793,8 +791,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>244.87869262695312</real>
-											<real>182.81729125976562</real>
+											<real>216.08192443847656</real>
+											<real>190.81729125976562</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
