@@ -75,6 +75,9 @@
         // releases the joint and lets the catapult snap back
         [_mouseJoint invalidate];
         _mouseJoint = nil;
+        // releases the joint and lets the penguin fly
+        [_penguinCatapultJoint invalidate];
+        _penguinCatapultJoint = nil;
         
         // after snapping rotation is fine
         _currentPenguin.physicsBody.allowsRotation = TRUE;
